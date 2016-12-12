@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/10/22 14:45:05。
+     1>项目“D:\C++\vs_go\vs_go.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MAIN.cpp
+         MAIN.cpp
+     1>d:\c++\vs_go\main.cpp(57): warning C4715: “gomap::putgo”: 不是所有的控件路径都返回值
+     1>d:\c++\vs_go\main.cpp(35): warning C4715: “gomap::judge”: 不是所有的控件路径都返回值
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\vs_go\Debug\vs_go.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++\vs_go\Debug\vs_go.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\vs_go\Debug\vs_go.lib" /MACHINE:X86 Debug\MAIN.obj
+         Debug\help.obj
+         vs_go.vcxproj -> D:\C++\vs_go\Debug\vs_go.exe
+     1>已完成生成项目“D:\C++\vs_go\vs_go.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.22
